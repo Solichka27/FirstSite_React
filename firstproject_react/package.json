@@ -1,6 +1,7 @@
 {
   "name": "firstproject_react",
   "version": "0.1.0",
+  "homepage": "https://github.com/Solichka27/github.io/FirstSite_React",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
