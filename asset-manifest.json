@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Solichka27/FirstSite_React/static/css/main.f855e6bc.css",
+    "main.js": "/Solichka27/FirstSite_React/static/js/main.6f280fbf.js",
+    "static/js/453.764d6f68.chunk.js": "/Solichka27/FirstSite_React/static/js/453.764d6f68.chunk.js",
+    "static/media/logo.svg": "/Solichka27/FirstSite_React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Solichka27/FirstSite_React/index.html",
+    "main.f855e6bc.css.map": "/Solichka27/FirstSite_React/static/css/main.f855e6bc.css.map",
+    "main.6f280fbf.js.map": "/Solichka27/FirstSite_React/static/js/main.6f280fbf.js.map",
+    "453.764d6f68.chunk.js.map": "/Solichka27/FirstSite_React/static/js/453.764d6f68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6f280fbf.js"
+  ]
+}
